@@ -1,3 +1,5 @@
 # viduinfo
 
-I am Vidushi Seksaria
+## Hello. I am Vidushi Seksaria
+
+I am aiming to become a web developer
